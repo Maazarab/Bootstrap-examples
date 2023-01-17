@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Maaz Arab Resume</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Mohammad Maaz Arab</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/maaz.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Mohammad Maaz
+                        <span class="text-success">Arab</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Pulkesh Nagar,Galgali colony, Near Takwa masjid,<br>Mob no:9742936280<br>Vijayapura. Pin:586101<br>
+                        <a href="mailto:name@email.com">mohammedmaazarab@email.com</a>
+                    </div> 
+                    <p class="lead mb-5">An enthusiastic engineer fresher who is a self-starter and capable to use technical skills for the betterment of the organization & looking for opportunity to work for an organization which provides me the opportunity to improve my skills and knowledge to grow along with the organization objectives.
+                    </p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-instagram"></i></a>
+                        <a class="social-icon" href="#!"><i class="fab fa-whatsapp"></i></a>
+
+
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Site Engineer</h3>
+                            <div class="subheading mb-3">J.P Constructions</div>
+                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2013</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Web Developer</h3>
+                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">November 2021 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Junior Web Developer</h3>
+                            <div class="subheading mb-3">Deploying the projects</div>
+                            <p>Creating some frontend projects and deploying them and hosting them on web servers.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between"></div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Secab Intitute of Engineering and Technology</h3>
+                            <div class="subheading mb-3">Bachelor of Engineering</div>
+                            <div>Civil Engineering</div>
+                            <p>SGPA: 7.1</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2016 - May 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">B.L.D.E.A'S Assosiation's Polytechnic</h3>
+                            <div class="subheading mb-3">Civil Engineering</div>
+                            <p>SGPA: 5.2</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2011 - Feb 2016</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Angels English Medium Hign School</h3>
+                            <div class="subheading mb-3">Class</div>
+                            <div>10th</div>
+                            <p>Pecentage:-70.72%</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2016 - May 2020</span></div>
+                </div>
+
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Programming Languages and Software Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/ms-word.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+                        <img src="https://img.icons8.com/fluency/48/000000/autocad.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/>
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            HTML, CSS & BOOTSTRAP 
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Front end Web Developer 
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            MS-OFFICE(Word,Excel,Powerpoint)
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Auto-Cad 2d Design and Drafting
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Interests</h2>
+                    <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an enthusiast gym freak. I enjoy bike riding with friends, spending time with my homies.</p>
+                    <p class="mb-0">When indoors, I follow a number of sci-fi and fantasy genre movies and television shows, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Google Analytics Certified Developer
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                             Web Development - Innoovatum Certification
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            2
+                            <sup>nd</sup> Place-
+                            Model making
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            1
+                            <sup>st</sup>
+                            Place - Paper crafting
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            2
+                            <sup>nd</sup>
+                            Place - Auto Cad
+                        </li>
+                        
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
